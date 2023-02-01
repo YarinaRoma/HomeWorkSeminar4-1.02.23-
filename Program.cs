@@ -72,4 +72,5 @@ int size = Convert.ToInt32(Console.ReadLine());
 
 int[]newArray = NumArray( size);
 ShowArray(newArray);
+
 */
